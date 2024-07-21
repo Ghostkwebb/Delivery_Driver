@@ -12,11 +12,11 @@ git clone https://github.com/Ghostkwebb/Delivery_Driver.git
 3. Press the Play button to run the game.
    
 ## Usage Instructions
-Use the following keys for movement:
-W - Move forward
-A - Turn left
-S - Move backward
-D - Turn right
+* Use the following keys for movement:
+   * W - Move forward
+   * A - Turn left
+   * S - Move backward
+   * D - Turn right
 
 ## Features
 Basics of game development in Unity using C#.
