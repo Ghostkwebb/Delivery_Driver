@@ -19,14 +19,14 @@ git clone https://github.com/Ghostkwebb/Delivery_Driver.git
    * D - Turn right
 
 ## Features
-Basics of game development in Unity using C#.
-Simple and relaxing gameplay.
+* Basics of game development in Unity using C#.
+* Simple and relaxing gameplay.
 
-##Contributing
+## Contributing
 This project is for portfolio purposes, so contributions are not needed.
 
-##License
+## License
 This project is not licensed.
 
-##Contact Information
+## Contact Information
 For any questions or issues, please contact: ss4489@srmist.edu.in
