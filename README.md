@@ -6,7 +6,6 @@
 ## Installation Instructions
 1. Clone the repository to your local machine.
 ```bash
-Copy code
 git clone https://github.com/Ghostkwebb/Delivery_Driver.git
 ```
 2. Open the project in Unity.
